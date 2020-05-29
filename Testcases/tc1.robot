@@ -5,7 +5,8 @@ Library     SeleniumLibrary
 
 
 *** Variables ***
-${browser}      Chrome
+${browser}      headLessChrome
+#${browser}      Chrome
 ${URL}     https://demo.nopcommerce.com/
 
 
